@@ -27,7 +27,7 @@ I'm passionate about connecting developers, supporting open-source projects, and
 </p>
 
 [![Vaunt
-Community](https://api.vaunt.dev/v1/github/entities/{github_username}/badges/community)](https://community.vaunt.dev/board/{github_username})
+Community](https://api.vaunt.dev/v1/github/entities/urielofir/badges/community)](https://community.vaunt.dev/board/{github_username})
 
 
 
