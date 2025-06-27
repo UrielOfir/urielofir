@@ -15,6 +15,16 @@ I'm passionate about connecting developers, supporting open-source projects, and
   </a>
 </p>
 
+<p>
+  <a href="https://vaunt.dev">
+    <img
+      src="https://api.vaunt.dev/v1/github/entities/urielofir/contributions?format=svg"
+      width="350"
+      title="Includes public contributions"
+    />
+  </a>
+</p>
+
 **Join Ma'akaf:** <a href="https://maakaf.com" target="_blank" rel="noopener noreferrer">Our website</a>
 
 Let's connect and make an impact together!
